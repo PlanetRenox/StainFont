@@ -1,5 +1,7 @@
 ![font](./stain-fox.png)
 
+![figures](./stain-figures.png)
+
 ## Usage
 
 To use Stain in your project without downloading, import it via CDN:
