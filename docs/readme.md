@@ -6,7 +6,7 @@ To use Stain in your project without downloading, import it via CDN:
 
     @font-face {
       font-family: "Stain";
-      src: url("https://cdn.jsdelivr.net/gh/multipleof4/stain.otf@v1/dist/Stain.otf") format("opentype");
+      src: url("https://cdn.jsdelivr.net/gh/PlanetRenox/StainFont@v1/dist/Stain.otf") format("opentype");
     }
 
     body {
