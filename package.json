@@ -7,7 +7,7 @@
     "build": "node scripts/build-font.js"
   },
   "dependencies": {
-    "opentype.js": "^2.0.0",
-    "ttf2woff2": "^8.0.1"
+    "opentype.js": "2.0.0",
+    "ttf2woff2": "8.0.1"
   }
 }
